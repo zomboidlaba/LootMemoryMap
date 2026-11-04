@@ -1,0 +1,4 @@
+{
+    "name": "Loot Memory Map",
+    "description": "Remembers where you saw items with your own eyes and marks them on the map. Search by name to keep only the places with the item you need. <LINE> <LINE> The magnifier button next to the search box opens a window with every item you have seen in the part of the map currently on screen, with identical items stacked into one cell with a total count. Click an item to keep only the places where it lies — handy for finding loot in a pile of corpses after a big horde. <LINE> <LINE> https://github.com/ZomboidLaba"
+}
